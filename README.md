@@ -93,7 +93,7 @@ Formato da msg JSON:<br>
 
 Crie um repositório numa conta pessoal do github e compartilhe-a com o entrevistador.<br>
 
-<h1> Exercício #3 </h1>
+<h1> Exercício #3 - HTML, jQuery, javascript</h1>
 
 Faça o download do código localizado nesse repositório na pasta "exercicio3". <br>
 
