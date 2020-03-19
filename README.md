@@ -11,17 +11,21 @@ Por exemplo:
 
 conteúdo do arquivo exemplo:
 
+<pre>
 Pedro, 15, Rio de Janeiro
 Joana, 33, Rio de Janeiro
 Alair, 24, Atibaia
 Tobias, 35, Atibaia
 Marina, 44, Campinas
+</pre>
 
 Médias:
 
+<pre>
 Rio de Janeiro, 24
 Atibaia, 29,5
 Campinas, 44
+</pre>
 
 JSON:
 
