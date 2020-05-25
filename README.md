@@ -114,3 +114,15 @@ A página exibida contém uma lista dinâmica contendo 5 de nomes de filmes. Rem
 <br>
 Ao ter o código corrigido, crie um repositório numa conta sua do github e compartilhe-a com o entrevistador.<br>
 
+<h1> Exercício #4 - .Net Core, Vue.js</h1>
+Usando ASP.NET Core crie uma api que deverá consumir 2 tabelas:<br>
+Autores: Id, Nome<br>
+Livros: Id, Autor, Qtde. Estoque<br>
+Implementar Crud para ambas as tabelas.<br>
+O banco deverá ser um postgresql e utilizar NHibernate para acessá-lo.<br>
+<br>
+O front-end deverá ser em vue.js, ele derá ter:<br>
+As telas de cadastro de autor e livros.<br>
+Na tela inicial os livros e sua quantidade em estoque. <br>
+Implementar recurso para "comprar" 1 livro, que irá diminuir 1 de seu estoque.<br>
+Caso um usuário altere a quantidade em estoque de um livro, essa informação deve ser atualizada automaticamente na tela de todos os usuários.
