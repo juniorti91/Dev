@@ -33,3 +33,39 @@ C:\Users\PEAQ\source\repos\Exercicio3\obj\Debug\netcoreapp3.1\Exercicio3.dll
 C:\Users\PEAQ\source\repos\Exercicio3\obj\Debug\netcoreapp3.1\Exercicio3.pdb
 C:\Users\PEAQ\source\repos\Exercicio3\obj\Debug\netcoreapp3.1\Exercicio3.csproj.CopyComplete
 C:\Users\PEAQ\source\repos\Exercicio3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Enviar.cshtml.g.cs
+E:\DESENVOLVIMENTO\teste entrevista\Dev\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\DESENVOLVIMENTO\teste entrevista\Dev\bin\Debug\netcoreapp3.1\appsettings.json
+E:\DESENVOLVIMENTO\teste entrevista\Dev\bin\Debug\netcoreapp3.1\Exercicio3.exe
+E:\DESENVOLVIMENTO\teste entrevista\Dev\bin\Debug\netcoreapp3.1\Exercicio3.deps.json
+E:\DESENVOLVIMENTO\teste entrevista\Dev\bin\Debug\netcoreapp3.1\Exercicio3.runtimeconfig.json
+E:\DESENVOLVIMENTO\teste entrevista\Dev\bin\Debug\netcoreapp3.1\Exercicio3.runtimeconfig.dev.json
+E:\DESENVOLVIMENTO\teste entrevista\Dev\bin\Debug\netcoreapp3.1\Exercicio3.dll
+E:\DESENVOLVIMENTO\teste entrevista\Dev\bin\Debug\netcoreapp3.1\Exercicio3.pdb
+E:\DESENVOLVIMENTO\teste entrevista\Dev\bin\Debug\netcoreapp3.1\Exercicio3.Views.dll
+E:\DESENVOLVIMENTO\teste entrevista\Dev\bin\Debug\netcoreapp3.1\Exercicio3.Views.pdb
+E:\DESENVOLVIMENTO\teste entrevista\Dev\obj\Debug\netcoreapp3.1\Exercicio3.csproj.AssemblyReference.cache
+E:\DESENVOLVIMENTO\teste entrevista\Dev\obj\Debug\netcoreapp3.1\Exercicio3.GeneratedMSBuildEditorConfig.editorconfig
+E:\DESENVOLVIMENTO\teste entrevista\Dev\obj\Debug\netcoreapp3.1\Exercicio3.AssemblyInfoInputs.cache
+E:\DESENVOLVIMENTO\teste entrevista\Dev\obj\Debug\netcoreapp3.1\Exercicio3.AssemblyInfo.cs
+E:\DESENVOLVIMENTO\teste entrevista\Dev\obj\Debug\netcoreapp3.1\Exercicio3.csproj.CoreCompileInputs.cache
+E:\DESENVOLVIMENTO\teste entrevista\Dev\obj\Debug\netcoreapp3.1\Exercicio3.MvcApplicationPartsAssemblyInfo.cache
+E:\DESENVOLVIMENTO\teste entrevista\Dev\obj\Debug\netcoreapp3.1\Exercicio3.RazorAssemblyInfo.cache
+E:\DESENVOLVIMENTO\teste entrevista\Dev\obj\Debug\netcoreapp3.1\Exercicio3.RazorAssemblyInfo.cs
+E:\DESENVOLVIMENTO\teste entrevista\Dev\obj\Debug\netcoreapp3.1\staticwebassets\Exercicio3.StaticWebAssets.Manifest.cache
+E:\DESENVOLVIMENTO\teste entrevista\Dev\obj\Debug\netcoreapp3.1\Exercicio3.TagHelpers.input.cache
+E:\DESENVOLVIMENTO\teste entrevista\Dev\obj\Debug\netcoreapp3.1\Exercicio3.TagHelpers.output.cache
+E:\DESENVOLVIMENTO\teste entrevista\Dev\obj\Debug\netcoreapp3.1\Exercicio3.RazorCoreGenerate.cache
+E:\DESENVOLVIMENTO\teste entrevista\Dev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Enviar.cshtml.g.cs
+E:\DESENVOLVIMENTO\teste entrevista\Dev\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\DESENVOLVIMENTO\teste entrevista\Dev\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\DESENVOLVIMENTO\teste entrevista\Dev\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\DESENVOLVIMENTO\teste entrevista\Dev\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\DESENVOLVIMENTO\teste entrevista\Dev\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\DESENVOLVIMENTO\teste entrevista\Dev\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\DESENVOLVIMENTO\teste entrevista\Dev\obj\Debug\netcoreapp3.1\Exercicio3.RazorTargetAssemblyInfo.cache
+E:\DESENVOLVIMENTO\teste entrevista\Dev\obj\Debug\netcoreapp3.1\Exercicio3.RazorTargetAssemblyInfo.cs
+E:\DESENVOLVIMENTO\teste entrevista\Dev\obj\Debug\netcoreapp3.1\Exercicio3.Views.pdb
+E:\DESENVOLVIMENTO\teste entrevista\Dev\obj\Debug\netcoreapp3.1\Exercicio3.dll
+E:\DESENVOLVIMENTO\teste entrevista\Dev\obj\Debug\netcoreapp3.1\Exercicio3.pdb
+E:\DESENVOLVIMENTO\teste entrevista\Dev\obj\Debug\netcoreapp3.1\Exercicio3.genruntimeconfig.cache
+E:\DESENVOLVIMENTO\teste entrevista\Dev\obj\Debug\netcoreapp3.1\Exercicio3.csproj.CopyComplete

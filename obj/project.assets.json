@@ -8,23 +8,24 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\PEAQ\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Junior Paixao\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PEAQ\\source\\repos\\Exercicio3\\Exercicio3.csproj",
+      "projectUniqueName": "E:\\DESENVOLVIMENTO\\teste entrevista\\Dev\\Exercicio3.csproj",
       "projectName": "Exercicio3",
-      "projectPath": "C:\\Users\\PEAQ\\source\\repos\\Exercicio3\\Exercicio3.csproj",
-      "packagesPath": "C:\\Users\\PEAQ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PEAQ\\source\\repos\\Exercicio3\\obj\\",
+      "projectPath": "E:\\DESENVOLVIMENTO\\teste entrevista\\Dev\\Exercicio3.csproj",
+      "packagesPath": "C:\\Users\\Junior Paixao\\.nuget\\packages\\",
+      "outputPath": "E:\\DESENVOLVIMENTO\\teste entrevista\\Dev\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\PEAQ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Junior Paixao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -36,6 +37,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -47,6 +49,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -65,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
